@@ -79,6 +79,7 @@
 - 縣市
 - 遊客人次
 
+![Bar Chart](./screenshots/bar.png)
 ---
 
 ## 3. 每月遊客人次趨勢
@@ -106,6 +107,7 @@
 - 月份
 - 遊客人次
 
+![Line Chart](./screenshots/line.png)
 ---
 
 # 操作方式
